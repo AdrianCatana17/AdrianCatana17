@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdrianCatana17
 - 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Swift and iOS Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/marian-adrian-catana-a18aba229
 - 😄 Pronouns: He/Him
